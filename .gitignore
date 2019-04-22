@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Data Output
+*.h5
+*.xmf
+*.run
+
+# folder
+.vscode/
