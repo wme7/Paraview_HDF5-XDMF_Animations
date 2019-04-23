@@ -1,4 +1,4 @@
-# Build_Paraview_Animations
+# Temporal Data Visualization with Paraview (HDF5-XDMF)
 C/C++ snippets for saving 2D &amp; 3D temporal structured data into HDF5 format. 
 
 I also give example routines for creating their associated XDMF scheme, i.e. the *.xmf files, needed for loading the data into Paraview.
